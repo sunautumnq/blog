@@ -26,7 +26,7 @@ $regisrt_error = 0;
         $form_type = '0';
 
     
-// View main page
+// View main page for guest
     include_once '/views/main.php';//__DIR__ . '/views/main.php';
 
 ?>
